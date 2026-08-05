@@ -69,8 +69,7 @@ A cybersecurity learning platform I co-founded with 4 others — learn by playin
 - Came up with the concept for the whole platform
 - Architected the site structure
 - Built all the challenges and lessons, with their solutions
-- Designed the leveling system
-
+- 
 The rest of the team built the frontend, backend, and design.
 
 <br/>
@@ -94,17 +93,17 @@ The rest of the team built the frontend, backend, and design.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N3r0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="N3r0's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3r0&theme=github-dark-blue&hide_border=true&background=0D1117" alt="N3r0's streak stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RamyBelala&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="N3r0's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyBelala&theme=github-dark-blue&hide_border=true&background=0D1117" alt="N3r0's streak stats" width="48%"/>
 </p>
 
 <br/>
 
 ## 📫 Connect
 
-- GitHub: [@N3r0](https://github.com/N3r0)
-- Email: _add yours here_
-- LinkedIn: _add yours here_
+- GitHub: [@N3r0](https://github.com/RamyBelala)
+- Email: ramyybelala@gmail.com
+- LinkedIn:[@ramy](www.linkedin.com/in/abdelmoumen-ramy-belala-73b460414)
 
 <br/>
 
